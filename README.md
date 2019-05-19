@@ -19,9 +19,10 @@ Choa의 주요 기능
 기능|스토리보드
 ----|-----
 로그인 및 회원가입|https://drive.google.com/open?id=1SwBwfLsk0Zl6iin22-hLBVEDXKIYqykt
-리서치화면|https://drive.google.com/open?id=1ZT2BQRfuHY88-nWuiL3nFSW6Oknv3fmu
-학회페이지|https://drive.google.com/open?id=1YbqERpjxHAyOu3JA451OtdYGO976_jFY
 Home화면|https://drive.google.com/open?id=1sLYM8uIfjYKoBj17f6Ys3ZxCOibyZI50
 My Academy 화면|https://drive.google.com/open?id=1e33nTgdZEjsQtBYaPTVKELrzP7KoUMWl
+Research화면|https://drive.google.com/open?id=1ZT2BQRfuHY88-nWuiL3nFSW6Oknv3fmu
 Reviwer 화면|https://drive.google.com/open?id=1VZ_NhpFGhw3-w16VF-qUjPr2lSzBGWM8
+학회페이지|https://drive.google.com/open?id=1YbqERpjxHAyOu3JA451OtdYGO976_jFY
+
 
