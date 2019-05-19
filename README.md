@@ -13,4 +13,5 @@ Choa의 주요 기능
 
 3. 사람들은 전문가가 아니더라도 관심이 있는 여러 **다양한 분야의 학회에 가입** 신청할 수 있습니다.
 
+
 https://drive.google.com/drive/folders/1Xesp1cdXD8770FpaDQHizauelaXS5Ezf?usp=sharing
