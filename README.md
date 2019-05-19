@@ -14,4 +14,14 @@ Choa의 주요 기능
 3. 사람들은 전문가가 아니더라도 관심이 있는 여러 **다양한 분야의 학회에 가입** 신청할 수 있습니다.
 
 
-https://drive.google.com/drive/folders/1Xesp1cdXD8770FpaDQHizauelaXS5Ezf?usp=sharing
+스토리보드
+----
+기능|스토리보드
+----|-----
+로그인 및 회원가입|https://drive.google.com/open?id=1SwBwfLsk0Zl6iin22-hLBVEDXKIYqykt
+리서치화면|https://drive.google.com/open?id=1ZT2BQRfuHY88-nWuiL3nFSW6Oknv3fmu
+학회페이지|https://drive.google.com/open?id=1YbqERpjxHAyOu3JA451OtdYGO976_jFY
+Home화면|https://drive.google.com/open?id=1sLYM8uIfjYKoBj17f6Ys3ZxCOibyZI50
+My Academy 화면|https://drive.google.com/open?id=1e33nTgdZEjsQtBYaPTVKELrzP7KoUMWl
+Reviwer 화면|https://drive.google.com/open?id=1VZ_NhpFGhw3-w16VF-qUjPr2lSzBGWM8
+
