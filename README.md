@@ -23,12 +23,12 @@ Choa의 주요 기능
 ----
 기능|스토리보드
 ----|-----
-로그인 및 회원가입|[로그인 및 회원가입 스토리보드](https://drive.google.com/open?id=1SwBwfLsk0Zl6iin22-hLBVEDXKIYqykt)
-Home화면|[Home화면 스토리보드](https://drive.google.com/open?id=1sLYM8uIfjYKoBj17f6Ys3ZxCOibyZI50)
-My Academy 화면|[My Academy 스토리보드](https://drive.google.com/open?id=1e33nTgdZEjsQtBYaPTVKELrzP7KoUMWl)
-Research화면|[Research 화면 스토리보드](https://drive.google.com/open?id=1ZT2BQRfuHY88-nWuiL3nFSW6Oknv3fmu)
-Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1VZ_NhpFGhw3-w16VF-qUjPr2lSzBGWM8)
-학회페이지|[학회페이지 스토리보드](https://drive.google.com/open?id=1YbqERpjxHAyOu3JA451OtdYGO976_jFY)
+로그인 및 회원가입|[로그인 및 회원가입 스토리보드](https://drive.google.com/open?id=1H5WL5Dl7zTsWA7801Z2SmKWKAi12sGya)
+Home화면|[Home화면 스토리보드]()
+My Academy 화면|[My Academy 스토리보드]()
+Research화면|[Research 화면 스토리보드](https://drive.google.com/open?id=1BobNz2lwRQay4xtB71aJGrS7Wch8puTS)
+Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1tWTkPORpKf8PXZVuiQphCDEdhu0bhFNH)
+학회페이지(일반사용자 & 단순열람자)|[학회페이지(일반사용자 & 단순열람자) 스토리보드](https://drive.google.com/open?id=1qVSpJcQ7nYlTBb3QrGibzmLTm3lDm46d)
 
 
 
