@@ -28,7 +28,8 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 개인 회의록
 ----
 이름|회의록
-김민걸|.
+----|----
+김민걸|
 이유림|.
 이지헌|.
 김강산|.
