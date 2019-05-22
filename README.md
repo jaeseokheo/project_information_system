@@ -29,10 +29,10 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 ----
 이름|회의록
 ----|----
-김민걸|
-이유림|.
-이지헌|.
-김강산|.
-허재석|.
+김민걸|[김민걸 회의록](https://drive.google.com/open?id=1usEFOIXYt5IWYxiFmT6_9ev6i9Kqp4Je)
+허재석|[허재석 회의록](https://drive.google.com/open?id=1nKm2oPGiu9diS3h6a9EJwtlbpMijPP2S)
+이유림|[이유림 회의록]()
+이지헌|[이지헌 회의록]()
+김강산|[김강산 회의록]()
 
 
