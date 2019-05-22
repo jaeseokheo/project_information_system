@@ -25,4 +25,13 @@ Research화면|[Research 화면 스토리보드](https://drive.google.com/open?i
 Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1VZ_NhpFGhw3-w16VF-qUjPr2lSzBGWM8)
 학회페이지|[학회페이지 스토리보드](https://drive.google.com/open?id=1YbqERpjxHAyOu3JA451OtdYGO976_jFY)
 
+개인 회의록
+----
+이름|회의록
+김민걸|
+이유림|
+이지헌|
+김강산|
+허재석|
+
 
