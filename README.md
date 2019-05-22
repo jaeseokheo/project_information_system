@@ -28,7 +28,7 @@ Home화면|[Home화면 스토리보드](https://drive.google.com/open?id=1OEW075
 My Academy 화면|[My Academy 스토리보드](https://drive.google.com/open?id=1OoG__1QE6ytsu97EiRzM1a956egzk3KW)
 Research화면|[Research 화면 스토리보드](https://drive.google.com/open?id=1BobNz2lwRQay4xtB71aJGrS7Wch8puTS)
 Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1tWTkPORpKf8PXZVuiQphCDEdhu0bhFNH)
-학회페이지(일반사용자 & 단순열람자) 화면|[학회페이지(일반사용자 & 단순열람자) 스토리보드](https://drive.google.com/open?id=1qVSpJcQ7nYlTBb3QrGibzmLTm3lDm46d)
+학회페이지(일반사용자 & 단순방문자) 화면|[학회페이지(일반사용자 & 단순자) 스토리보드](https://drive.google.com/open?id=1qVSpJcQ7nYlTBb3QrGibzmLTm3lDm46d)
 학회페이지(관리자)화면|[학회페이지(관리자)화면 스토리보드](https://drive.google.com/open?id=1nsfKdyHof_3oGBxRS1hgD5YtFdtgyMbL)
 
 
