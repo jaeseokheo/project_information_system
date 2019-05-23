@@ -1,7 +1,7 @@
 Project Choa(3조)
-
-![choa 로고](https://user-images.githubusercontent.com/48387300/58226449-a41a5680-7d61-11e9-9df0-a98d1fab98cd.PNG)
 ====
+![choa 로고](https://user-images.githubusercontent.com/48387300/58226449-a41a5680-7d61-11e9-9df0-a98d1fab98cd.PNG)
+
 
 Choa 시스템이란?
 ----
