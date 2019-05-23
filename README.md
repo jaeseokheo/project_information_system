@@ -1,4 +1,4 @@
-Project Choa(3)
+Project Choa(3조)
 ====
 
 Choa 시스템이란?
