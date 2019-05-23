@@ -23,13 +23,13 @@ Choa의 주요 기능
 ----
 기능|스토리보드
 ----|-----
-로그인 및 회원가입 화면|[로그인 및 회원가입 화면 스토리보드](https://drive.google.com/open?id=1H5WL5Dl7zTsWA7801Z2SmKWKAi12sGya)
-Home화면|[Home화면 스토리보드](https://drive.google.com/open?id=1OEW075loz9LyPYqJ8ZJej5U5iDG4aSmn)
-My Academy 화면|[My Academy 스토리보드](https://drive.google.com/open?id=1OoG__1QE6ytsu97EiRzM1a956egzk3KW)
-Research화면|[Research 화면 스토리보드](https://drive.google.com/open?id=1BobNz2lwRQay4xtB71aJGrS7Wch8puTS)
-Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1tWTkPORpKf8PXZVuiQphCDEdhu0bhFNH)
-학회페이지(일반사용자 & 단순방문자) 화면|[학회페이지(일반사용자 & 단순방문자) 스토리보드](https://drive.google.com/open?id=1qVSpJcQ7nYlTBb3QrGibzmLTm3lDm46d)
-학회페이지(관리자)화면|[학회페이지(관리자)화면 스토리보드](https://drive.google.com/open?id=1nsfKdyHof_3oGBxRS1hgD5YtFdtgyMbL)
+로그인 및 회원가입 화면|[로그인 및 회원가입 화면 스토리보드](https://drive.google.com/open?id=1ZelRr6D2pA05eIvq_gCxf1Af6q0yG8jK)
+Home화면|[Home화면 스토리보드](https://drive.google.com/open?id=1mrnbjv0GW-z9YdlJqAzAvLRQNbriPFdK)
+My Academy 화면|[My Academy 스토리보드](https://drive.google.com/open?id=1sgL2D8Fu4Em6XCeb031JC88NjlkWAwd8)
+Research화면|[Research 화면 스토리보드](https://drive.google.com/open?id=1CPpT_hEeQ3g_7EAaTD_VulAe_B3gU6oN)
+Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?id=1k93_EyiuCkwI1gN6SBg_qZbC-xfockSZ)
+학회페이지(일반사용자 & 단순방문자) 화면|[학회페이지(일반사용자 & 단순방문자) 스토리보드](https://drive.google.com/open?id=1XBhi1RAqrzUcwM5mqHWMJWS0KsJkyLJI)
+학회페이지(관리자)화면|[학회페이지(관리자)화면 스토리보드](https://drive.google.com/open?id=1ZuyXI_sJ9KfKO7QQJrzmquNn_4nxiRGR)
 
 
 백로그
