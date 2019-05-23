@@ -19,7 +19,7 @@ Choa의 주요 기능
 ----
 유저 스토리 매핑은 저희의 사이트를 사용하는 유저를 **학회 생성자**, **학회 가입자**, **학회 사용자(관리자)**, **학회 사용자(일반 사용자)**, **단순 방문자**, **리뷰어**로 나누어 제작했으며, 모든 과정에서 동일하게 사용되는 기능인 로그인, 로그아웃, 회원가입은 별도로 **공통**시트에 작성하였습니다.
 
-유저 스토리 매핑 : [Choa 유저 스토리 매핑](https://drive.google.com/open?id=1vsBmykq8OJmBA99Ze4wsQQaNa0iNY9yS)
+- 유저 스토리 매핑 : [Choa 유저 스토리 매핑](https://drive.google.com/open?id=1vsBmykq8OJmBA99Ze4wsQQaNa0iNY9yS)
 
 스토리보드
 ----
@@ -36,9 +36,8 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 
 백로그
 ----
-유저 페르소나 : [페르소나1(강수정)](https://drive.google.com/open?id=1a_viX7Uj2oKjO8_5LsJW8Qgl4vJ82t1Q), [페르소나2(김연철)](https://drive.google.com/open?id=1PLOcchEOCFQw_ICzHQ21bMta_yOg-zYR), [페르소나3(안다심)](https://drive.google.com/open?id=1Cd5Zyv1aDI5sWwwKkt28ojrdnS-9A7xP), [페르소나4(윤백상)](https://drive.google.com/open?id=1tnVFpGwb9QwpV7v5PNXWrDo6OFXu0FxD)
-
-1차 장표 : [Choa 1차장표](https://drive.google.com/open?id=1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy)
+- 유저 페르소나 : [페르소나1(강수정)](https://drive.google.com/open?id=1a_viX7Uj2oKjO8_5LsJW8Qgl4vJ82t1Q), [페르소나2(김연철)](https://drive.google.com/open?id=1PLOcchEOCFQw_ICzHQ21bMta_yOg-zYR), [페르소나3(안다심)](https://drive.google.com/open?id=1Cd5Zyv1aDI5sWwwKkt28ojrdnS-9A7xP), [페르소나4(윤백상)](https://drive.google.com/open?id=1tnVFpGwb9QwpV7v5PNXWrDo6OFXu0FxD)
+- 1차 장표 : [Choa 1차장표](https://drive.google.com/open?id=1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy)
 
 프로젝트 참여자
 ----
