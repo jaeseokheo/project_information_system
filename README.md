@@ -36,6 +36,7 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 장표
 ----
 발표|장표
+----|----
 1차 발표|[Choa 1차 발표용 장표](https://drive.google.com/file/d/1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy/view?usp=sharing)
 2차 발표|[Choa 2차 발표용 장표](https://drive.google.com/file/d/1UYzZfEfXIE-951XG8ocP9p3-OUH2pHiC/view?usp=sharing)
 3차 발표|[Choa 3차 발표용 장표](https://drive.google.com/file/d/1zbCHv6XZ3sTCGQ70f5809hxxJ_AkA1my/view?usp=sharing)
