@@ -39,6 +39,11 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 - 유저 페르소나 : [페르소나1(강수정)](https://drive.google.com/open?id=1a_viX7Uj2oKjO8_5LsJW8Qgl4vJ82t1Q), [페르소나2(김연철)](https://drive.google.com/open?id=1PLOcchEOCFQw_ICzHQ21bMta_yOg-zYR), [페르소나3(안다심)](https://drive.google.com/open?id=1Cd5Zyv1aDI5sWwwKkt28ojrdnS-9A7xP), [페르소나4(윤백상)](https://drive.google.com/open?id=1tnVFpGwb9QwpV7v5PNXWrDo6OFXu0FxD)
 - 1차 장표 : [Choa 1차장표](https://drive.google.com/open?id=1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy)
 
+
+
+장표
+----
+
 프로젝트 참여자
 ----
 - 가천대학교 산업경영공학과 201533273 허재석
